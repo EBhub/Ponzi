@@ -7,6 +7,7 @@ const { default: BigNumber } = require("bignumber.js");
 const privateKeys = [  ]
 
 ////// --- DONT TOUCH ANYTHING BELOW THIS LINE ----- ////////
+/// unless you want to change the amounts
 
 const provider = new ethers.providers.JsonRpcProvider('https://api.avax.network/ext/bc/C/rpc');
 
