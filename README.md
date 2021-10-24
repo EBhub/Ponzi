@@ -7,6 +7,6 @@ This script requires nodeJS installed the web3 and ethersjs node packages as wel
 https://www.npmjs.com/package/ethers  
 https://www.npmjs.com/package/web3  
 So to run enter your private key below and run the script.  
-```npm install web3 ethers```
-```node ponzi.js```
-It will run the compound every 10 minutes
+```npm install web3 ethers```  
+```node ponzi.js```  
+It will run the compound every ~10 minutes.
